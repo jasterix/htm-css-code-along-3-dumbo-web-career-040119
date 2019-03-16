@@ -1,0 +1,14 @@
+/* This is a comment */
+
+/* CSS syntax
+
+selector {
+  property: value;
+}
+
+Type selector
+*/
+p {
+  /*all p elements*/
+  font-size: 16px
+}
